@@ -5,4 +5,4 @@
 
 # Usage
 - python3 uuid_shortcut.py
-- Type <cmd> + <shift> + v (<ctrl> + <shift> + v on Linux / Windows)
+- Type cmd + shift + v (ctrl + shift + v on Linux / Windows)
